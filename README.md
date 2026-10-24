@@ -23,4 +23,14 @@ Python, uAgents, Fetch.ai Agentverse, ASI:One (Chat Protocol)
 ## Future scope
 Voice input, more Indian regional languages, telemedicine and local health centre integration, government health programmes, and live nearby-hospital search.
 
+## Screenshots
+
+<img width="1915" height="626" alt="image" src="https://github.com/user-attachments/assets/06245e9c-f4d0-4883-96d5-33e1ff76d13d" />
+<img width="405" height="1032" alt="image" src="https://github.com/user-attachments/assets/48678af9-0963-48ca-bd99-2ec6f8b1e01a" />
+<img width="1392" height="790" alt="image" src="https://github.com/user-attachments/assets/c3615924-02a3-4139-96f7-7d82dba5be63" />
+<img width="867" height="522" alt="image" src="https://github.com/user-attachments/assets/e31daf13-6a60-455b-92d0-3463f797b77d" />
+
+
+
+
 Team: Bitbybit
