@@ -26,6 +26,7 @@ Voice input, more Indian regional languages, telemedicine and local health centr
 ## URL
 https://www.youtube.com/watch?v=skaipYnAzfI
 https://asi1.ai/chat/669ded88-e641-457f-8a83-0fc7370c77e4
+https://agentverse.ai/agents/details/agent1q0566j5qc6h5x5m4sdgxsj7vpz5jmxadscalyxkw2dlfeym7k9s4y9r6rsd/profile
 ## Screenshots
 <img width="1532" height="1017" alt="image" src="https://github.com/user-attachments/assets/b27d63a6-ff8e-4d60-9779-70c8467c5dda" />
 <img width="1447" height="981" alt="image" src="https://github.com/user-attachments/assets/3b377fcc-c00d-41b5-b8a1-f76f2b826f4b" />
